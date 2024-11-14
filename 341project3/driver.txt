@@ -1,0 +1,18 @@
+Dump of the queue with priorityFn2 (MINHEAP):
+((74:208446)9:904337((((90:205596)65:543713(101:860958))30:399742)10:445354((94:633661)16:981168(29:717842))))
+
+Dump of the queue with priorityFn1 (MAXHEAP):
+(((((39:208446)43:981168(40:399742))43:633661)44:904337(((39:543713)40:717842(40:445354))42:205596))44:860958)
+
+Preorder traversal of the nodes in the queue with priorityFn1 (MAXHEAP):
+Contents of the crops queue:
+[44] Crop ID: 860958, current temperature: 39, current soil moisture: 100%, current time: NOON, plant type: CITRUS
+[44] Crop ID: 904337, current temperature: 39, current soil moisture: 8%, current time: NOON, plant type: CITRUS
+[43] Crop ID: 633661, current temperature: 39, current soil moisture: 93%, current time: NOON, plant type: COTTON
+[43] Crop ID: 981168, current temperature: 39, current soil moisture: 15%, current time: NOON, plant type: COTTON
+[39] Crop ID: 208446, current temperature: 39, current soil moisture: 73%, current time: NOON, plant type: BEAN
+[40] Crop ID: 399742, current temperature: 39, current soil moisture: 29%, current time: NOON, plant type: MELON
+[42] Crop ID: 205596, current temperature: 39, current soil moisture: 89%, current time: NOON, plant type: SUNFLOWER
+[40] Crop ID: 717842, current temperature: 39, current soil moisture: 28%, current time: NOON, plant type: MELON
+[39] Crop ID: 543713, current temperature: 39, current soil moisture: 64%, current time: NOON, plant type: BEAN
+[40] Crop ID: 445354, current temperature: 39, current soil moisture: 9%, current time: NOON, plant type: MELON
